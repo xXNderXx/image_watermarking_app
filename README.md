@@ -10,6 +10,7 @@ How to Run:
 
   To run on Mac/Linux:
     python3 image_watermarking_app.py
+  
   To run on Windows:
     py image_watermarking_app.py
 
