@@ -1,5 +1,6 @@
 # image_watermarking_app
 Description:
+  
   An application that takes in an image input and applies a watermark to it. What the watermark says will be up to the user.
 
 How to Run:
@@ -13,4 +14,5 @@ How to Run:
     py image_watermarking_app.py
 
 Known Bugs:
+  
   -Since the application doesn't contain a scroll bar, if the image is too big, the application will struggle to fit neatly in the GUI
